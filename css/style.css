@@ -1,0 +1,7 @@
+    #contents {
+        text-align: center;
+    }
+    
+    #contents>div {
+        text-align: left;
+    }
