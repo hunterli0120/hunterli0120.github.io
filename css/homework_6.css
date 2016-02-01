@@ -1,0 +1,21 @@
+body {
+    padding-top: 70px;
+}
+
+h1,
+h3 {
+    font-family: DFKai-sb;
+    font-weight: bold;
+}
+
+.container-1 {
+    margin-top: 50px;
+}
+
+.center-1 {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
